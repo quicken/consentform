@@ -1,0 +1,121 @@
+body{
+	line-height: normal;
+	font-family: 'Open Sans', sans-serif;
+	font-size:10pt;
+}
+
+
+p{
+	line-height: normal;
+	margin: 3mm 0 3mm 0;
+	text-align:justify;
+}
+
+strong{
+	font-weight:bold;
+}
+
+#uqlogo
+{
+	width:60mm;
+}
+
+#heading
+{
+	width:100%;
+	border-bottom:1mm solid black;
+	padding-bottom:5mm;
+	margin-bottom:5mm;
+	box-sizing: border-box;
+}
+
+#header
+{
+	width:100%;
+	margin-bottom:8mm;
+}
+
+#header td:nth-child(1) h2
+{
+	font-size:11pt;
+	font-weight:bold;
+	margin-bottom:5mm;
+}
+
+#header td:nth-child(1) strong
+{
+	font-weight:bold;
+	font-size:9pt;
+}
+
+#header td:nth-child(1)
+{
+	font-size:9pt;
+	
+}
+
+#header td:nth-child(2)
+{
+	width:50mm;
+	font-size:8pt;
+	line-height: normal;
+}
+
+
+#main h1
+{
+	font-size:16pt;
+	text-align:center;
+	font-style: italic;
+	margin-bottom:2mm;
+}
+
+#main h2
+{
+	font-size:12pt;
+	text-align:center;
+	font-style: italic;
+	margin-bottom:2mm;
+}
+
+.underline
+{
+	display:inline-block;
+	border-bottom:0.2mm solid black;
+	min-width:100mm;
+}
+
+#sigbox
+{
+	display:inline-block;
+	position:relative;
+	top:0;
+	left:0;
+	height:20mm;
+	width:145mm;
+	margin-bottom:5mm;
+}
+
+#sigDate
+{
+	position:absolute;
+	top:16mm;
+	right:0mm;
+}
+
+#signature
+{
+	position:absolute;
+	top:0mm;
+	left:15mm;
+	width:100mm
+}
+
+
+#btnSave{
+	margin-top:3mm;
+}
+
+
+
+

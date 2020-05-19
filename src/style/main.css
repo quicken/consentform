@@ -1,0 +1,111 @@
+body{
+	line-height: normal;
+	font-family: 'Open Sans', sans-serif;
+	font-size:12pt;
+}
+
+
+
+p{
+	line-height: normal;
+	margin: 5mm 0 5mm 0;
+	text-align:justify;
+}
+
+input{
+	width:100mm;
+	height:8mm;
+	border:1px solid #cccccc;
+	padding:1mm;
+	font-size:12pt;
+}
+strong{
+	font-weight:bold;
+}
+
+#page
+{
+	margin:auto;
+	width:210mm;
+	border:0.5mm solid #cccccc;
+	padding:10mm 10mm 10mm 10mm;
+	box-sizing: border-box;
+}
+
+#uqlogo
+{
+	width:70mm;
+}
+
+#heading
+{
+	width:100%;
+	border-bottom:1.5mm solid black;
+	padding-bottom:5mm;
+	margin-bottom:5mm;
+	box-sizing: border-box;
+}
+
+#header
+{
+	width:100%;
+	margin-bottom:10mm;
+}
+
+#header td:nth-child(1) h2
+{
+	font-size:11pt;
+	font-weight:bold;
+	margin-bottom:5mm;
+}
+
+#header td:nth-child(1) strong
+{
+	font-weight:bold;
+}
+
+#header td:nth-child(1)
+{
+	font-size:10pt;
+	
+}
+
+#header td:nth-child(2)
+{
+	width:50mm;
+	font-size:8pt;
+	line-height: normal;
+}
+
+
+#main h1
+{
+	font-size:16pt;
+	text-align:center;
+	font-style: italic;
+	margin-bottom:2mm;
+}
+
+#main h2
+{
+	font-size:12pt;
+	text-align:center;
+	font-style: italic;
+	margin-bottom:2mm;
+}
+
+
+#signature
+{
+	margin-top:2mm;
+	border:0.5mm solid #3e3e3e;
+}
+
+
+#btnSave{
+	margin-top:3mm;
+}
+
+
+
+
