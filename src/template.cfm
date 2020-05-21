@@ -6,7 +6,7 @@
 		<tbody>
 			<tr>
 				<td>
-					<h2>WORD School of Information Technology and Electrical Engineering</h2>
+					<h2>School of Information Technology and Electrical Engineering</h2>
 					<div>
 						<strong>HEAD OF SCHOOL</strong><br>
 						Professor Amin Abbosh
