@@ -4,11 +4,11 @@ body{
 	font-size:10pt;
 }
 
-
 p{
 	line-height: normal;
 	margin: 3mm 0 3mm 0;
 	text-align:justify;
+	font-size:10pt;
 }
 
 strong{
@@ -94,6 +94,7 @@ strong{
 	height:20mm;
 	width:145mm;
 	margin-bottom:5mm;
+	font-size:10pt;
 }
 
 #sigDate
